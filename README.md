@@ -37,7 +37,7 @@ npm run test
 * Github: [@team2](https://github.com/team2)
 
 ## 💼  LinkedIn username 
-kelly-jeanne-beck, amandineetchartdinetch, vincentpasquiou, david-lanzetti-b70666195
+kelly-jeanne-beck, amandineetchartdinetch, vincentpasquiou, david-lanzetti
 
 ## 🤝 Contributing
 
